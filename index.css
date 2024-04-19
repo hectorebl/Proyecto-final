@@ -1,0 +1,20 @@
+*{
+    background-color: rgb(159, 213, 209);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main-section{
+    width: 500px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    text-align: center;
+    margin: 0 auto;
+}
+.board {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap:10px;
+    padding: 10px;    
+}
